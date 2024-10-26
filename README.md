@@ -1,2 +1,2 @@
 # notificaciones_registro
-This code was developed within the Executive Commission of Victim Care.  Prior to my arrival at the Victims Registry, staff members manually processed each document, resulting in significant delays for victims awaiting their registry documentation. This document is crucial as it grants them access to the rights afforded to them under the Law of Victims.
+This code was developed within the Executive Commission for Victim Assistance. Before I joined the Victims Registry, staff members manually processed each document, causing substantial delays for victims awaiting their registration documents. This document is essential as it grants them access to the rights provided under the Victims' Law.
